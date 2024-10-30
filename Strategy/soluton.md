@@ -1,3 +1,6 @@
+Note:
+- Duck class dont need to be abstract  
+- Behavior is interface
 ```
 // FlyBehavior interface
 public interface FlyBehavior {
