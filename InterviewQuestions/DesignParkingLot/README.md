@@ -49,3 +49,8 @@ Requirement: The Vehicle class is abstract because it represents a general conce
 8. Spot Allocation Strategy
 Question: How would you implement a strategy to find the best spot for parking a vehicle based on the current design?
 Requirement: The method _find_available_spot in the Level class should contain the logic to search for an available parking spot that fits the vehicle. This might include checking each spot for availability and whether the vehicle can fit in it.
+
+
+
+
+
