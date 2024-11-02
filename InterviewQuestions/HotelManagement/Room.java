@@ -23,4 +23,8 @@ public class Room {
     public void markAsAvailable(){
         isAvaiable = true;
     }
+
+    public RoomType getRoomType() {
+        return roomType;
+    }
 }

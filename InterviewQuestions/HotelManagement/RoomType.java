@@ -1,5 +1,5 @@
 package InterviewQuestions.HotelManagement;
 
-enum RoomType {
+public enum RoomType {
     STANDARD, DELUXE, FAMILY_SUITE
 }

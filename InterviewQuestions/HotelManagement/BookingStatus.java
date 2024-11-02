@@ -1,5 +1,5 @@
 package InterviewQuestions.HotelManagement;
 
-enum BookingStatus {
+public enum BookingStatus {
     CONFIRMED, CANCELLED
 }

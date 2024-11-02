@@ -18,4 +18,5 @@ public class Booking {
     public void cancelBooking(){
         this.status = BookingStatus.CANCELLED;
     }
+
 }
