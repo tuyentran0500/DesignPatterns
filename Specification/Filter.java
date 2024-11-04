@@ -1,5 +1,6 @@
 package Specification;
 
-public class Filter {
+public interface Filter {
+
     
 }
